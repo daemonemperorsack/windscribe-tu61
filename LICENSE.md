@@ -1,4 +1,4 @@
-
+Enhance your Windscribe experience with custom Windscribe Connector | IP-masking + DNS-leak-protection, the #1 connector. Includes IP-masking and DNS-leak-protection for a safer
 
 
 
